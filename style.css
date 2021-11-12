@@ -1,0 +1,32 @@
+table{
+     font-family : Helvetica, Sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table{
+    
+      font-family    : Sans-serif;
+      border-collapse: collapse;
+      border-width   : 20px;
+      border-style   : solid;
+      border-color   : #2695A6;
+}
+
+table{
+    width: 100%;
+}
+
+th {
+     font-weight: 1000;
+}
+
+th {
+    font-weight     : 1000;
+    background-color: #2695A6;
+    color           : #FFA500;
+}
+
+th:hover {background-color: greenyellow;
